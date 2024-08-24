@@ -8,7 +8,7 @@ currently being supported with security updates.
 |      Version      | Supported          |
 | ----------------- | ------------------ |
 | React -> 17.0.2   | :white_check_mark: |
-| ----------------- |                    |
+| ----------------- | -----------------  |
 
 ## Reporting a Vulnerability
 
